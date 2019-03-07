@@ -1,0 +1,24 @@
+@import "components/implementacion";
+@import "components/menu";
+body{
+    margin: 0px;
+    
+}
+#header{
+    
+    width: 100%;
+    height: 150px;
+    padding: 20px;
+    border-bottom:3px solid black;
+    
+    text-align: center;
+
+    
+    background-image: linear-gradient(#4B466A, #D6D2EF);
+
+}
+#cuerpo{
+    width: 100%;
+    height: 400px;
+
+}

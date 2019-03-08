@@ -1,0 +1,19 @@
+#cuerpo{
+text-align: center;
+
+}
+.panel{
+    margin-left: 15%;
+    width: 70%;
+    height: 300px;
+    border: 1px solid rgb(177, 177, 177);
+    padding: 10px;
+    margin-top:10px;
+}
+@for $i from 1 through 10 {
+    #panel#{$i}{
+        
+        
+    }
+
+}
